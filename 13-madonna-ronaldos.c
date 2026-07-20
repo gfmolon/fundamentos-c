@@ -41,7 +41,7 @@ int main() {
     r10.titular = 1;
 
     ARTISTA m;
-    strcpy(m.nome, "Madona");
+    strcpy(m.nome, "Madonna");
     m.acompanhante[0] = r9;
     m.acompanhante[1] = r10;
 
